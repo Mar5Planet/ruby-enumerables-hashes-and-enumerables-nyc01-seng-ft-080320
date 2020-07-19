@@ -5,6 +5,5 @@
 # }
 
 def happy_birthday(birthday_kids)
-  birthday_kids.each |kid, age|
-  
+  birthday_kids.each |kid, age| 
 end
